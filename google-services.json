@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "318004227623",
+    "project_id": "musix-a7299",
+    "storage_bucket": "musix-a7299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318004227623:android:3fd5d434b70546474b6802",
+        "android_client_info": {
+          "package_name": "com.nonceblox.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318004227623-9b91dt8ocl2c93gbqgl3g2ui7ror9pft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nonceblox.test1",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "318004227623-11oacf5ek03ssmmsbnuavmlija0kgrm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb9LceZKCP-oZrJ3nTmO1J6hxjvbxcrgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318004227623-11oacf5ek03ssmmsbnuavmlija0kgrm8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318004227623-ic94973f92qvtc80sl7752m9m5m72r3i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nonceblox.test1",
+                "app_store_id": "6475713772"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+// { tempSeletedArists:
+//    [ { title: 'Pick 3 Headliner ',
+//        data:
+//         [ { followers: 98980834,
+//             _id: '658d4bc86f2aa3f09f72b708',
+//             artistId: '4YRxDV8wJFPHPTeXepOstw',
+//             __v: 0,
+//             createdAt: '2023-12-28T10:19:51.958Z',
+//             externalUrl: 'https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw',
+//             images:
+//              [ { height: 640,
+//                  url: 'https://i.scdn.co/image/ab6761610000e5eb0261696c5df3be99da6ed3f3',
+//                  width: 640 },
+//                { height: 320,
+//                  url: 'https://i.scdn.co/image/ab676161000051740261696c5df3be99da6ed3f3',
+//                  width: 320 },
+//                { height: 160,
+//                  url: 'https://i.scdn.co/image/ab6761610000f1780261696c5df3be99da6ed3f3',
+//                  width: 160 } ],
+//             lastupdated: 1704444119178,
+//             updatedAt: '2024-03-07T07:00:00.131Z',
+//             popularity: 89,
+//             currenBalance: 11.4,
+//             credit: 98980834,
+//       <…>

@@ -1,0 +1,50 @@
+// import { lazyLoad } from '@/components';
+
+// export const AppScreen = lazyLoad(async () => import('./SetUpScreen'));
+
+// export const IntroScreen = lazyLoad(async () => import('./Introduction'));
+// export const Signup = lazyLoad(async () => import('./Auth/SignUp'));
+// export const Login = lazyLoad(async () => import('./Auth/Login'));
+// export const AddSocialHandlesPage = lazyLoad(async () => import('./Auth/AddSocialHandlesPage'));
+// export const CompletionDetailScreen = lazyLoad(async () => import('./Auth/CompetetionDetails'));
+// export const AppSlider = lazyLoad(async () => import('./AppSlider'));
+// export { default as ChalangeDetails } from './Chalange/ChalangeDetails';
+
+// export const ChallengeCreate = lazyLoad(async () => import('./Chalange/ChallengeCreate'));
+// export const Home = lazyLoad(async () => import('./Chalange/Home'));
+// export const PlayerChalange = lazyLoad(async () => import('./Chalange/PlayerChalange'));
+// export const Competition = lazyLoad(async () => import('./Competition'));
+// export const CompleteProfilePage = lazyLoad(async () => import('./Auth/CompleteProfileScreen'));
+// export const Match = lazyLoad(async () => import('./Match'));
+// export const MenuScreen = lazyLoad(async () => import('./MenuScreen'));
+// export const PickPlayers = lazyLoad(async () => import('./PickPlayers'));
+// export const League = lazyLoad(async () => import('./Leagues/League'));
+// export const PlayerScreen = lazyLoad(async () => import('./Player'));
+// export const PlayerDetailsScreen = lazyLoad(async () => import('./PlayerDetailsScreen'));
+// export const ProfileScreen = lazyLoad(async () => import('./Profile'));
+// export const SearchPlayer = lazyLoad(async () => import('./SearchPlayer'));
+// export const TutorialSliderScreen = lazyLoad(async () => import('./Tutorial'));
+export { default as AppSlider } from './AppSlider';
+export { default as AddSocialHandlesPage } from './Auth/AddSocialHandlesPage';
+export { default as CompletionDetailScreen } from './Auth/CompetetionDetails';
+export { default as CompleteProfilePage } from './Auth/CompleteProfileScreen';
+export { default as Login } from './Auth/Login';
+export { default as Signup } from './Auth/SignUp';
+export { default as ChalangeDetails } from './Chalange/ChalangeDetails';
+export { default as ChallengeCreate } from './Chalange/ChallengeCreate';
+export { default as Home } from './Chalange/Home';
+export { default as PlayerChalange } from './Chalange/PlayerChalange';
+export { default as Competition } from './Competition';
+export { default as IntroScreen } from './Introduction';
+export { default as League } from './Leagues/League';
+export { default as Match } from './Match';
+export { default as PickPlayers } from './PickPlayers';
+export { default as PlayerDetailsScreen } from './PlayerDetailsScreen';
+export { default as PlayerScreen } from './PlayerDetailsScreen';
+export { default as ProfileScreen } from './Profile';
+export { default as SearchPlayer } from './SearchPlayer';
+export { default as AppScreen } from './SetUpScreen';
+export { default as TutorialScreen } from './Tutorial/TutorialScreen';
+export { default as TutorialSliderScreen } from './Tutorial/TutorialSliders';
+
+// export const TutorialSliderScreen = lazyLoad(async () => import('./Tutorial'));

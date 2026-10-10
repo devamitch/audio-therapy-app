@@ -1,0 +1,23 @@
+import React from 'react';
+import { View } from 'react-native';
+
+import { responsive } from '@/styles';
+
+const DEFAULT_SPACE = responsive(20);
+
+export type SpacerMode = 'horizontal' | 'vertical' | 'expand';
+
+const SPACER_STYLES = {
+	horizontal: (size: number) => ({ width: responsive(size) }),
+	vertical: (size: number) => ({ height: responsive(size) }),
+	expand: () => ({ flex: 1 }),
+};
+
+export const Spacer: React.FC<{ mode?: SpacerMode; size?: number }> = ({
+	mode = 'vertical',
+	size = DEFAULT_SPACE,
+}) => {
+	const style = SPACER_STYLES[mode](size);
+
+	return <View style={style} />;
+};
